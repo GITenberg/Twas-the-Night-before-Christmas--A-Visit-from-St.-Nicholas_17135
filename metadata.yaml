@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   illustrator:
     agent_name: Smith, Jessie Willcox
-    birthdate: &id001 1863
+    birthdate: 1863
     deathdate: 1935
     gutenberg_agent_id: '7158'
     url: http://www.gutenberg.org/2009/agents/7158
@@ -16,11 +16,13 @@ creator:
     agent_name: Moore, Clement Clarke
     alias: Moore, Clement C. (Clement Clarke)
     birthdate: 1779
-    deathdate: *id001
+    deathdate: 1863
     gutenberg_agent_id: '7157'
     url: http://www.gutenberg.org/2009/agents/7157
     wikipedia: http://en.wikipedia.org/wiki/Clement_Clarke_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17135#Twas-the-Night-before-Christmas--A-Visit-from-St.-Nicholas
 gutenberg_bookshelf:
 - Children's Picture Books
 - Christmas
